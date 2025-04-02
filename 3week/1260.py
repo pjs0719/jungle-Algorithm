@@ -81,3 +81,5 @@ result = []
 dfs_recursive(graph, V, visited, result)
 print(*result)
 print(*bfs(graph, V, N))
+
+
